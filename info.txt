@@ -1,0 +1,9 @@
+FONT: Work Sans
+  SIZE: 
+      Regular: 16px 24px
+      Bold: 36px 64px 
+COLORS: 
+      #FFFFFF
+      #C4C4C4
+      #777777
+      #000000
